@@ -1,0 +1,3 @@
+languaage: objective-c
+xcode_project: PercentageCalculator.xcodeproj # path to your xcodeproj folder
+xcode_scheme: PercentageCalculatorTests
